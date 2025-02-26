@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm janith chandupa</h1>
+<h1 align="center">Hi 👋, I'm Janith Chandupa</h1>
 <h3 align="center">A passionate fullstack developer from sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janith33&label=Profile%20views&color=0e75b6&style=flat" alt="janith33" /> </p>
