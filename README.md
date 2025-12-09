@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **BICT(Hons) Information & Communication Technology Degree **
 
 <h3 align="left">Connect with me:</h3>
+<p>https://www.linkedin.com/in/janith-chandupa-440664317/</p>
 <p align="left">
 </p>
 
